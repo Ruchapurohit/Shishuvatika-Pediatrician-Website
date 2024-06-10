@@ -2,6 +2,9 @@
 
 This repository contains the code for "Shishuvatika," a static website for a pediatrician's clinic. This minor project showcases my web development skills and provides a user-friendly platform for pediatric healthcare information and services.
 
+![Screenshot 2024-06-10 191840](https://github.com/Ruchapurohit/Shishuvatika-Pediatrician-Website/assets/146411434/baedefc1-8f95-43bf-8bdf-8039039fd2b9)
+
+
 📋 Table of Contents
 
     📖 Description
